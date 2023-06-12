@@ -110,7 +110,7 @@ const generateHeader = (contentContainer) => {
   const logo = document.createElement('div');
   logo.classList.add('logo');
   const logoImage = document.createElement('img');
-  logoImage.src = 'https://main--mayo-clinic-screens--div8063.hlx.live/content/screens/assets/media_19d99525ce831b5776256fe50d0846b0f5f74b773.png?width=2000&format=webply&optimize=medium';
+  logoImage.src = 'https://main--screens-hero--vivesing.hlx.live/content/screens/assets/media_18fb6555de1ea88daa7f111fec071343a2124f90b.png?width=2000&format=webply&optimize=medium';
   logo.appendChild(logoImage);
   header.appendChild(logo);
   const datetime = document.createElement('div');
